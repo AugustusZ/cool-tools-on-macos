@@ -47,8 +47,7 @@ But the most charming part of Powerpack is the Workflows. With Workflows, users 
 
 ### Where can I get it?
 
-- Request it from Admin OR 
-- Buy it online right over [here](https://www.alfredapp.com/powerpack/buy/).
+Buy it online right over [here](https://www.alfredapp.com/powerpack/buy/).
 
 ## ShiftIt
 
