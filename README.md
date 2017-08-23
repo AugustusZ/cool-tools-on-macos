@@ -1,4 +1,3 @@
-# Cool Tools on macOS
 
 ## Go2Shell
 
