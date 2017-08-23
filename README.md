@@ -77,4 +77,6 @@ Especially useful when you don't have multiple monitors around you. Play around 
 
 Download the [latest release](https://github.com/fikovnik/ShiftIt/releases) from GitHub **for free**.
 
+---
 
+Go [here](https://github.com/AugustusZ/cool-tools-on-macos) and contribute to this repo.
