@@ -1,3 +1,17 @@
+# What's the point?
+To make your developemnt process more efficient and more enjoyable.
+
+## Insight.io for Github
+
+### What does it do?
+
+This is a Chrome extension and it lists a GitHub repository in a tree structure in a sidebar.
+
+![](https://lh3.googleusercontent.com/eshim5DDmCWEq0EpamTJyNT4YkVQjcK2h6amVsrgSYpdwlSnlHFfFqhd6jNl1fGZ7fWnBbEfXg=w640-h400-e365)
+
+### Where can I get it?
+
+On [Chrome Web Store](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh)
 
 ## Go2Shell
 
@@ -58,7 +72,7 @@ Remember the awkward moments when you
 - dragged the corner of the window to resize it when you do the presentation
 - jumped among different windows to fill out a form
 
-They are gone if you start use ShiftIt! 
+They are gone if you start using ShiftIt! 
 
 > [ShiftIt] provides a set of actions that manipulates windows positions and sizes.
 
@@ -76,6 +90,6 @@ Especially useful when you don't have multiple monitors around you. Play around 
 
 Download the [latest release](https://github.com/fikovnik/ShiftIt/releases) from GitHub **for free**.
 
----
+# What if I want to contribute?
 
 Go [here](https://github.com/AugustusZ/cool-tools-on-macos) and contribute to this repo.
