@@ -3,33 +3,33 @@ To make your developemnt process more efficient and more enjoyable.
 
 ## Insight.io for Github
 
-### What does it do?
+### 🔨 What does it do?
 
 This is a Chrome extension and it lists a GitHub repository in a tree structure in a sidebar.
 
 ![](https://lh3.googleusercontent.com/eshim5DDmCWEq0EpamTJyNT4YkVQjcK2h6amVsrgSYpdwlSnlHFfFqhd6jNl1fGZ7fWnBbEfXg=w640-h400-e365)
 
-### Where can I get it?
+### 🔍 Where can I get it?
 
 On [Chrome Web Store](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh)
 
 ## Go2Shell
 
-### What does it do?
+### 🔨 What does it do?
 
 It opens up Terminal from Finder with current folder path. 
 
-### Where can I get it?
+### 🔍 Where can I get it?
 
 [Right here](http://zipzapmac.com/download/Go2Shell)
 
 ## Quick Look Plugins
 
-### What does it do?
+### 🔨 What does it do?
 
 It formats your Quick Look window contents. Especially useful when you Quick Look text files such as `*.json`, `*.css`, `*.md`, etc. (but not `*.ts`)
 
-### Where can I get it?
+### 🔍 Where can I get it?
 
 [Here](https://github.com/sindresorhus/quick-look-plugins/blob/master/readme.md) is the repo page on GitHub. TL;DL? Run this line of command to install:
 
@@ -39,7 +39,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 
 ## Alfred (with Powerpack)
 
-### What does it do?
+### 🔨 What does it do?
 
 **It boosts your productivity on macOS.** There are many cool features coming with with [Powerpack](https://www.alfredapp.com/powerpack/): Snippets (used be to part of Clipboard), Terminal / Shell, Workflow, etc. Take Snippets for example: when we want to paste a piece of pre-written snippet, let’s say, into an input field on a webpage, such as some organization’s address or some text templates you don’t want to type again and again, all you need to do is 
 
@@ -58,13 +58,13 @@ rather than
  
 But the most charming part of Powerpack is the Workflows. With Workflows, users are able to run a repeated sequence of tasks only with a two-or-three-character command typed in, and there are [tons of well-crafted workflows](https://www.alfredapp.com/workflows/) in the community can boost users’ productivity in different scenarios. 
 
-### Where can I get it?
+### 🔍 Where can I get it?
 
 Buy it online right over [here](https://www.alfredapp.com/powerpack/buy/).
 
 ## ShiftIt
 
-### What does it do?
+### 🔨 What does it do?
 
 Remember the awkward moments when you
 
@@ -86,7 +86,7 @@ With ShiftIt, You can easily
 
 Especially useful when you don't have multiple monitors around you. Play around with it and you will love it!
 
-### Where can I get it?
+### 🔍 Where can I get it?
 
 Download the [latest release](https://github.com/fikovnik/ShiftIt/releases) from GitHub **for free**.
 
