@@ -1,17 +1,15 @@
 # What's the point?
 To make your developemnt process more efficient and more enjoyable.
 
-## Insight.io for Github
+## <s>Insight.io for Github</s>GayHub
 
 ### 🔨 What does it do?
 
 This is a Chrome extension and it lists a GitHub repository in a tree structure in a sidebar.
 
-![](https://lh3.googleusercontent.com/eshim5DDmCWEq0EpamTJyNT4YkVQjcK2h6amVsrgSYpdwlSnlHFfFqhd6jNl1fGZ7fWnBbEfXg=w640-h400-e365)
-
 ### 🔍 Where can I get it?
 
-On [Chrome Web Store](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh)
+On <s>[Chrome Web Store](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh)</s>[Chrome Web Store](https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl)
 
 ## Go2Shell
 
