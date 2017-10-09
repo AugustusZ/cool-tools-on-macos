@@ -1,7 +1,7 @@
 # What's the point?
 To make your developemnt process more efficient and more enjoyable.
 
-## <s>Insight.io for Github</s>GayHub
+## GayHub
 
 ### 🔨 What does it do?
 
@@ -9,7 +9,7 @@ This is a Chrome extension and it lists a GitHub repository in a tree structure 
 
 ### 🔍 Where can I get it?
 
-On <s>[Chrome Web Store](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh)</s>[Chrome Web Store](https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl)
+On [Chrome Web Store](https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl)
 
 ## Go2Shell
 
